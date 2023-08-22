@@ -25,4 +25,6 @@ Vamos nos conectar e compartilhar experiências para que possamos evoluir.
 
 ## GitStats 📊
 
-<br> ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardeveloper&show_icons=true&theme=radical)
+<br> ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardeveloper&show_icons=true&theme=transparent)
+     
+
