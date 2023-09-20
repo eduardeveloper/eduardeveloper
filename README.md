@@ -1,9 +1,9 @@
 ## Bem vindo ao meu perfil ! 🤓
 
 Olá ✌ Sou Eduardo, estudante de Análise e desenvolvimento de Sistemas e apaixonado por
-desenvolvimento front-end. Estou neste campo empolgante há algum tempo e estou sempre em busca
+tecnologia. Estou neste campo empolgante há algum tempo e estou sempre em busca
 de maneiras novas e inovadoras de destacar meus designs. Mas você sabe o que eles dizem, "variedade é o tempero da vida",
-então atualmente estou explorando outras áreas de programação também.
+então atualmente estou explorando algumas áreas da tecnologia
 
 Sinta-se à vontade para navegar em meus repositórios e me enviar uma mensagem se tiver alguma dúvida.
 Vamos nos conectar e compartilhar experiências para que possamos evoluir.
